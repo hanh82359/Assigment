@@ -1,0 +1,63 @@
+/* css trang chu */
+
+.title-new,
+.icon,
+.price-banner,.price ,.about-color{
+  font-family: "Pacifico", cursive;
+  color: #94da46;
+}
+.title-conlection,
+.title-banner,
+.title-blog,
+.title-contact,
+.text ,.about{
+  font-family: "Pacifico", cursive;
+}
+.products-name,
+.text-banner ,.price{
+  font-family: "Pacifico", cursive;
+}
+.name-products{
+  font-family: "Pacifico", cursive;
+  
+}
+.name-products:hover{
+  color: #94da46;
+  cursor: pointer;
+}
+.price-products{
+  font-family: "Pacifico", cursive;
+  cursor: pointer;
+}
+.text-banner:hover {
+  color: #94da46;
+}
+.products-name:hover {
+  color: #94da46;
+}
+.banner-products {
+  background-image: url(../image/banner-product.jpg);
+}
+.banner-botton {
+  background-image: url(../image/banner-product1.jpg);
+}
+.banner {
+  background-image: url(../image/banner.png);
+}
+.description-banner {
+  font-family: "Noto Sans JP", sans-serif;
+}
+.name-products-detail{
+  font-family: "Pacifico", cursive;
+}
+.description{
+  display:block;
+}
+.contact{
+  background-image: url(http://demo.yolotheme.com/begreen/wp-content/uploads/2016/08/bg-contact.jpg);
+  font-family: "Pacifico", cursive;
+}
+.title{
+  font-family: 'Cookie', cursive;
+}
+

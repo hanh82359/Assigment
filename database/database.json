@@ -1,0 +1,70 @@
+{
+    "products":[
+        {
+            "id": 1, 
+            "name": "Refined Steel Shoes",
+            "price": 45000,
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+            "quantity-kho": 20,
+            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product6.jpg"
+
+        }, 
+        {
+            "id": 2, 
+            "name": "The Hot Holiday Naked",
+            "price": 35000,
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+            "quantity-kho": 20,
+            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product7.jpg"
+        },
+        {
+            "id": 3, 
+            "name": "The Calvert with Light",
+            "price": 25000,
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+            "quantity-kho": 20,
+            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product9.jpg"
+        },
+        {
+            "id": 4, 
+            "name": "The Calvert with Succulents",
+            "price": 12000,
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+            "quantity-kho": 20,
+            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product10.jpg"
+        },
+        {
+            "id": 5, 
+            "name": "The Succulent Collection",
+            "price": 10000,
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+            "quantity-kho": 20,
+            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product21.jpg"
+        },
+        {
+            "id": 6, 
+            "name": "The Succulent Collection",
+            "price": 26000,
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+            "quantity-kho": 20,
+            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product11.jpg"
+        },
+        {
+            "id": 7, 
+            "name": "The Succulent Collection",
+            "price": 25000,
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+            "quantity-kho": 20,
+            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product24.jpg"
+        },
+        {
+            "id": 8, 
+            "name": "The Succulent Collection",
+            "price": 30000,
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+            "quantity-kho": 20,
+            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product23-375x450.jpg"
+        }
+        
+    ]
+}
