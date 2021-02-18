@@ -7,6 +7,7 @@ import Contact from "./pages/contact.js";
 import Blog from "./pages/blog.js";
 import { parseRequestUrl } from './intils.js';
 
+
 // khoi taoj ddoois tuong
 const homePage = new HomePage();
 const productPage = new ProductPage();
@@ -15,6 +16,8 @@ const admin = new Admin();
 const about = new About();
 const contact = new Contact();
 const blog = new Blog();
+
+
 const $ = (selector) => {
   let elements = document.querySelectorAll(selector);
   return elements.length == 1 ? elements[0] : [...elements];
@@ -23,6 +26,7 @@ const $ = (selector) => {
 
 
 const routes = {
+
   "/blog":blog,
   "/contact":contact,
   "/admin" : admin,

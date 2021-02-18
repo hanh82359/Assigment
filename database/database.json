@@ -6,8 +6,9 @@
             "price": 45000,
             "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
             "quantity-kho": 20,
-            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product6.jpg"
-
+            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product6.jpg",
+            "cate_id":1
+            
         }, 
         {
             "id": 2, 
@@ -15,7 +16,8 @@
             "price": 35000,
             "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
             "quantity-kho": 20,
-            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product7.jpg"
+            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product7.jpg",
+            "cate_id":2
         },
         {
             "id": 3, 
@@ -23,7 +25,8 @@
             "price": 25000,
             "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
             "quantity-kho": 20,
-            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product9.jpg"
+            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product9.jpg",
+            "cate_id":1
         },
         {
             "id": 4, 
@@ -31,7 +34,8 @@
             "price": 12000,
             "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
             "quantity-kho": 20,
-            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product10.jpg"
+            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product10.jpg",
+            "cate_id":1
         },
         {
             "id": 5, 
@@ -39,7 +43,8 @@
             "price": 10000,
             "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
             "quantity-kho": 20,
-            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product21.jpg"
+            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product21.jpg",
+            "cate_id":2
         },
         {
             "id": 6, 
@@ -47,7 +52,8 @@
             "price": 26000,
             "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
             "quantity-kho": 20,
-            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product11.jpg"
+            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product11.jpg",
+            "cate_id":1
         },
         {
             "id": 7, 
@@ -55,7 +61,8 @@
             "price": 25000,
             "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
             "quantity-kho": 20,
-            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product24.jpg"
+            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product24.jpg",
+            "cate_id":1
         },
         {
             "id": 8, 
@@ -63,8 +70,20 @@
             "price": 30000,
             "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
             "quantity-kho": 20,
-            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product23-375x450.jpg"
+            "image": "http://demo.yolotheme.com/begreen/wp-content/uploads/2016/07/product23-375x450.jpg",
+            "cate_id":2
+
         }
         
+    ],
+    "categories":[
+        {
+            "id":1,
+            "name": "Cây Trong Nhà"
+        },
+        {
+            "id":2,
+            "name": "Cây Lấy Gỗ"
+        }
     ]
 }

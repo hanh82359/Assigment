@@ -1,14 +1,14 @@
 import  axiosClient  from "./axiosClient";
 
-const ProductApi = {
+const CategoryApi = {
   getAll() {
-    const url = '/products';
+    const url = '/categories';
     return axiosClient.get(url);
   },
   get(id) {
-    const url = `/products/${id}`;
+    const url = `/categories/${id}`;
     return axiosClient.get(url);
   },
 };
 
-export default ProductApi;
+export default CategoryApi;
